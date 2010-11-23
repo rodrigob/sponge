@@ -1,3 +1,3 @@
 
 
-Check out [[the wiki | https://github.com/rodrigob/sponge/wiki ]] !
+Check out [the wiki](https://github.com/rodrigob/sponge/wiki) !
